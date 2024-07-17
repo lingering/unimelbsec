@@ -3,6 +3,13 @@
 # up-to-date news should be placed at the very front of this file
 [[news]]
 type = "News"
+description = "Congratulations to Pengbo, Toby, Olya, Thuan, and Rob on their work, \"Combining Classical and Probabilistic Independence Reasoning to Verify the Security
+of Oblivious Algorithms\", which gets accepted in FM 2024."
+time ="28 June, 2024"
+url="https://arxiv.org/pdf/2407.00514"
+people = "Pengbo"
+[[news]]
+type = "News"
 description = "Congratulations to Lianglu, Shaanan, Toby, and Thuan on their work, EDEFuzz, which receives a Distinguished Paper Award in ICSE 2024."
 time ="28 Feb, 2024"
 url="https://arxiv.org/abs/2301.09258"
